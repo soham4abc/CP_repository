@@ -4,11 +4,23 @@ int main()
 {
     char ch;
     scanf("%c",&ch);
-    if((ch=='A')||(ch=='E')||(ch=='I')||(ch=='O')||(ch=='U')||(ch=='a')||(ch=='e')||(ch=='i')||(ch=='o')||(ch=='u'))
-    printf("\nVowel");
-    else
-    printf("\nConsonant");
-    return 0;
-    
+    switch(ch)
+    {
+        case 'A':
+        case 'E':
+        case 'I':
+        case 'O':
+        case 'U':
+        case 'a':
+        case 'e':
+        case 'i':
+        case 'o':
+        case 'u': printf("\n Vowel!");
+        break;
+        default:
+        printf("\nNot vowel!");
+
+    }
+    return 0;      
 
 }
