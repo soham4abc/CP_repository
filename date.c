@@ -30,7 +30,7 @@ int main()
             printf("\n Valid Date!!");
         }
         else 
-        printf("\n Not a valid date!!");
+        printf("\n Not a valid date!! ");
     }
     else if (ar[1]==2)
     {
