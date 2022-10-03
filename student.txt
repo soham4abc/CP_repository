@@ -1,9 +1,0 @@
-
-Name: soham 
-Marks=69 
-
-Name: ankit 
-Marks=99 
-
-Name: nandini 
-Marks=65 
