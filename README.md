@@ -3,7 +3,6 @@
   <img width="200" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png" alt="Material Bread logo">
  <h1 align="center">CP Repository</h1>
 </p>
-<br>
 
 # What is Competitive Programming?<br>
 ```
@@ -129,11 +128,10 @@ If you're intereted to solve harder problems you can take a look at <br>
 8) [SecondThread](https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g) uses Java mainly<br>
 9) [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) Learn to code for free<br>
 
-# Contribution Rule
-1) ach PR must have the new program in a separate new folder and the folder should have the solution source code and the question in an .md form.
+# Contribution Guide line
+Each PR must have the new program in a separate new folder and the folder should have the solution source code and the question in an .md form.
 
-# Follow us
-
+# Follow Us
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meetawwww" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meetabhashini-parida-730597212" height="30" width="40" /></a>
