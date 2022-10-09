@@ -10,7 +10,7 @@ arr[]={0,0,0,0,0,1,1,1,1,1,2,2}
 using namespace std;
 void sort012(int a[], int arr_size)
 {
-	int start=0;
+	int low=0;
 	int end = arr_size - 1;
 	int mid = 0;
 
@@ -21,7 +21,7 @@ void sort012(int a[], int arr_size)
 
 		// If the element is 0
 		case 0:
-			swap(a[start++], a[mid++]);
+			swap(a[low++], a[mid++]);
 			break;
 
 		// If the element is 1 .
