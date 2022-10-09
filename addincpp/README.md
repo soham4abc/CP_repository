@@ -1,0 +1,1 @@
+Read 3 numbers from stdin and print their sum to stdout.
