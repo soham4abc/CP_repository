@@ -16,12 +16,12 @@ void sort012(int a[], int arr_size)
 
 	// Iterate till all the elements
 	// are sorted
-	while (mid <= hi) {
+	while (mid <= high) {
 		switch (a[mid]) {
 
 		// If the element is 0
 		case 0:
-			swap(a[lo++], a[mid++]);
+			swap(a[start++], a[mid++]);
 			break;
 
 		// If the element is 1 .
@@ -31,7 +31,7 @@ void sort012(int a[], int arr_size)
 
 		// If the element is 2
 		case 2:
-			swap(a[mid], a[hi--]);
+			swap(a[mid], a[high--]);
 			break;
 		}
 	}
